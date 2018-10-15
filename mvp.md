@@ -7,5 +7,5 @@ mvp terbagi dalam 3(tiga) bagian penting yaitu:
 1. Model.
 2. View.
 3. Presenter.
-hal yang harus kamu ingat tiap fungsi penting dijadikan _interface_ .
+\nhal yang harus kamu ingat tiap fungsi penting dijadikan _interface_ .
 
