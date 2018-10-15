@@ -1,5 +1,5 @@
 # MVP ARSITEKTURAL PATERN
-* mvp merupakan arsitektural patern yang dibuat untuk mempermudah maintain applikasi.* 
+*mvp merupakan arsitektural patern yang dibuat untuk mempermudah maintain applikasi.* 
 *sebelum ada mvp sudah lebih dulu ada mvc(Model View Controler) arsitektural patern namun karena mvc patern.*
 *namun mvc patern memiliki kelemahan salah satunya ketika program sudah menjadi kompleks susah sekali dimaintain.*
 
